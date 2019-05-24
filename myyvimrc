@@ -1,0 +1,30 @@
+" **************************************************************************** "
+"                                                                              "
+"                                                         :::      ::::::::    "
+"    myyvimrc                                           :+:      :+:    :+:    "
+"                                                     +:+ +:+         +:+      "
+"    By: zamaseko <marvin@42.fr>                    +#+  +:+       +#+         "
+"                                                 +#+#+#+#+#+   +#+            "
+"    Created: 2019/05/24 14:29:25 by zamaseko          #+#    #+#              "
+"    Updated: 2019/05/24 14:29:32 by zamaseko         ###   ########.fr        "
+"                                                                              "
+" **************************************************************************** "
+
+set smartindent
+set tabstop=4
+set shiftwidth=4
+set noexpandtab
+set nocompatible
+set encoding=utf-8
+set modelines=1
+set hidden
+set ttyfast
+set backspace=indent,eol,start
+set laststatus=2
+set ignorecase
+set smartcase
+set incsearch
+set showmatch
+set hlsearch
+set nu
+syntax on
